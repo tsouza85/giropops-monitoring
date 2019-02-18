@@ -18,7 +18,7 @@ Full stack tools for monitoring containers and other stuff. ;)
 # Howto
 First of all, clone the giropopos-monitoring repo:
 ```
-# git clone https://github.com/badtuxx/giropops-monitoring.git
+# git clone https://github.com/tsouza85/giropops-monitoring.git
 ```
 
 ## Install Docker and create Swarm cluster
@@ -183,7 +183,3 @@ Of course, create new alerts on Prometheus:
 ```
 # vim conf/prometheus/alert.rules
 ```
-
-
-# Ahhhh, Help us to improve it!
-# Thanks! #VAIIII
